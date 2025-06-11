@@ -1,0 +1,18 @@
+{
+    "name": "OutlineMesh.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:5aa9eca5cb44eec4984b37052b947417"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
